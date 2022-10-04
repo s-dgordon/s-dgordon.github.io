@@ -21,8 +21,12 @@
 title: Welcome to our workshop "Using R for reproducible scientific research" 
 subtitle: The goal of this workshop is to teach beginner programmers how to write 
   modular code and adopt best practices in using R for data analysis. 
-If you have any questions, please contact us at:
+  
+Contact information:
 email: mexicansatucdavis@gmail.com
+twitter_username: mexicans_at_ucdavis
+webpage: https://sites.google.com/ucdavis.edu/mgsa/home
+
 description: >- # this means to ignore newlines until "baseurl:"
   The codes and lessons covered in this course were provided by Dr. Rayna 
   Harris (UCD Data Lab), and we appreciate her collaboration with the Mexican Graduate Student 
@@ -35,8 +39,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Thanks for participating!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: mexicans_at_ucdavis
-github_username:  s-dgordon
+    
 
 # Build settings
 theme: minima
