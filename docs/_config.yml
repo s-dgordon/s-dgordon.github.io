@@ -18,16 +18,25 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Welcome to our workshop "Using R for reproducible scientific research" 
+subtitle: The goal of this workshop is to teach beginner programmers how to write 
+  modular code and adopt best practices in using R for data analysis. 
+If you have any questions, please contact us at:
+email: mexicansatucdavis@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  The codes and lessons covered in this course were provided by Dr. Rayna 
+  Harris (UCD Data Lab), and we appreciate her collaboration with the Mexican Graduate Student 
+  Association at UC Davis. 
+  We believe that this workshop will be useful for providing attendes with a solid grounding
+  in R fundamentals and teach scientific computing best practices such as breaking down analysis
+  into modules, automating tasks, and encapsulation. 
+  Please note that this workshop focuses on the fundamentals of R programming and not on 
+  statistical analysis. 
+  Thanks for participating!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: mexicans_at_ucdavis
+github_username:  s-dgordon
 
 # Build settings
 theme: minima
