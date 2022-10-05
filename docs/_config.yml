@@ -19,10 +19,9 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Welcome to our workshop "Using R for reproducible scientific research" 
-subtitle: The goal of this workshop is to teach beginner programmers how to write 
+about: The goal of this workshop is to teach beginner programmers how to write 
   modular code and adopt best practices in using R for data analysis. 
   
-Contact information:
 email: mexicansatucdavis@gmail.com
 twitter_username: mexicans_at_ucdavis
 webpage: https://sites.google.com/ucdavis.edu/mgsa/home
